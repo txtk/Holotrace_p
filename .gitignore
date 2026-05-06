@@ -1,0 +1,9 @@
+# pixi environments
+.pixi
+*.egg-info
+*.zip
+__pycache__
+model
+temp
+pyproject.toml
+pixi.lock
