@@ -2,6 +2,10 @@
 
 This repository contains the source code and datasets for the paper **"Beyond Classification: Threat Attribution for APTs via Entity-Level Semantic Alignment"**.
 
+[![HoloTrace project architecture](./assets/architecture-preview.png)](./architecture.pdf)
+
+Click the architecture preview above to open the full PDF.
+
 ## Introduction
 
 **HoloTrace** is a zero-shot, open-set threat attribution framework designed to overcome the limitations of traditional classification in Cyber Threat Intelligence (CTI).
@@ -26,10 +30,6 @@ The main released data artifacts are organized as follows:
 *   **Evaluation outputs**: available under the corresponding `traditional_save/` directories.
 
 ## Project Architecture
-
-[![HoloTrace project architecture](./assets/architecture-preview.png)](./architecture.pdf)
-
-Click the architecture preview above to open the full PDF.
 
 The project source code located in `src/` is organized into several key modules:
 
