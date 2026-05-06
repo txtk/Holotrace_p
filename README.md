@@ -27,6 +27,10 @@ The main released data artifacts are organized as follows:
 
 ## Project Architecture
 
+[![HoloTrace project architecture](./assets/architecture-preview.png)](./architecture.pdf)
+
+Click the architecture preview above to open the full PDF.
+
 The project source code located in `src/` is organized into several key modules:
 
 *   **`alignment/`**: Contains the core business logic for the semantic alignment process. This includes sub-modules for evaluation (`eval`), candidate matching (`match`), data preparation (`prepare`), and entity profiling (`profile`).
